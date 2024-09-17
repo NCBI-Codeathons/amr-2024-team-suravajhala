@@ -1,8 +1,11 @@
 # Team Project Name
 
-List of participants and affiliations:
-- Participant, Affiliation (Team Leader)
-- Participant, Affiliation
+Mandar Bedse, Bioclues.org, India 
+Gautam Dhandh, Bioclues.org, India 
+VS Sundararajan, PhD., Bioclues.org, India 
+Girik Malik, PhD., Bioclues.org, India 
+R Shyam Prasad Rao, PhD., NITTE University, Mangalore and Bioclues.org, India  (Team keader)
+Prashanth N Suravajhala, PhD., Amrita Vshwa Vidyapeetham, Kerala and Bioclues.org, India  (Team keader)
 
 ## Project Goals
 
