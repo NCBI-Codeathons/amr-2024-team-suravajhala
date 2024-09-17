@@ -1,6 +1,6 @@
 # Team Project Name
 
-Mandar Bedse, Bioclues.org, India 
+Mandar Bedse, Bioclues.org, India <br>
 Gautam Dhandh, Bioclues.org, India 
 VS Sundararajan, PhD., Bioclues.org, India 
 Girik Malik, PhD., Bioclues.org, India 
