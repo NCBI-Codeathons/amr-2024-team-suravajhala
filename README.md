@@ -4,8 +4,8 @@ Mandar Bedse, Bioclues.org, India <br>
 Gautam Dhandh, Bioclues.org, India  <br>
 VS Sundararajan, PhD., Bioclues.org, India <br> 
 Girik Malik, PhD., Bioclues.org, India  <br>
-R Shyam Prasad Rao, PhD., NITTE University, Mangalore and Bioclues.org, India  (Team keader) <br>
-Prashanth N Suravajhala, PhD., Amrita Vshwa Vidyapeetham, Kerala and Bioclues.org, India  (Team keader)
+R Shyam Prasad Rao, PhD., NITTE University, Mangalore and Bioclues.org, India  (Team leader) <br>
+Prashanth N Suravajhala, PhD., Amrita Vshwa Vidyapeetham, Kerala and Bioclues.org, India  (Team leader)
 
 ## Project Goals
 
