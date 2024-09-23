@@ -1,9 +1,9 @@
 # Team Project Name
 
-Mandar Bedse, Bioclues.org, India <br>
-Gautam Dhandh, Bioclues.org, India  <br>
-VS Sundararajan, PhD., Bioclues.org, India <br> 
-Girik Malik, PhD., Bioclues.org, India  <br>
+Mandar Bedse , Bioclues.org, India (Teach Lead) <br>
+Gautam Kr. Dhandh, Bioclues.org, India (Writer)  <br>
+VS Sundararajan, PhD., Bioclues.org, India (Flex) <br> 
+Girik Malik, PhD., Bioclues.org, India (Flex)  <br>
 R Shyam Prasad Rao, PhD., NITTE University, Mangalore and Bioclues.org, India  (Team leader) <br>
 Prashanth N Suravajhala, PhD., Amrita Vshwa Vidyapeetham, Kerala and Bioclues.org, India  (Team leader)
 
