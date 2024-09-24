@@ -8,6 +8,11 @@ R Shyam Prasad Rao, PhD., NITTE University, Mangalore and Bioclues.org, India  (
 Prashanth N Suravajhala, PhD., Amrita Vshwa Vidyapeetham, Kerala and Bioclues.org, India  (Team leader)
 
 ## Project Goals
+Project Goals
+This project aims to integrate data/tools for the analysis of antimicrobial resistance (AMR) genes in ESKAPEE pathogens to put them in the context of mobile genetic elements (MGEs)/plasmids and their phenotype from antimicrobial susceptibility test (AST)/clinical data. Initially, the project will focus on Acinetobacter and plasmids. More importantly, it will provide a pangenomic profile of AMR and AST in the context of MGEs/plasmids.
+
+Keywords: Acinetobacter, antimicrobial resistance (AMR), ESKAPEE pathogens, mobile genetic elements (MGEs), pangenome, plasmids
+
 
 ## Approach
 
