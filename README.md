@@ -1,12 +1,12 @@
 # Antimicrobial Resistance (AMR) Gene Analysis in ESKAPEE Pathogens
 
 ### Team Members
-- **Mandar Bedse** - Bioclues.org, India (Teach Lead)
+- **Mandar Bedse** - Bioclues.org, India (Tech Lead)
 - **Gautam Kr. Dhandh** - Bioclues.org, India (Writer)
 - **VS Sundararajan, PhD** - Bioclues.org, India (Flex)
 - **Girik Malik, PhD** - Bioclues.org, India (Flex)
-- **R Shyam Prasad Rao, PhD** - NITTE University, Mangalore and Bioclues.org, India (Team Leader)
-- **Prashanth N Suravajhala, PhD** - Amrita Vishwa Vidyapeetham, Kerala and Bioclues.org, India (Team Leader)
+- **R Shyam Prasad Rao, PhD** - NITTE University, Mangalore and Bioclues.org, India (Team Co-Lead)
+- **Prashanth N Suravajhala, PhD** - Amrita Vishwa Vidyapeetham, Kerala and Bioclues.org, India (Team Co-Lead)
 
 ---
 
