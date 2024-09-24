@@ -1,17 +1,17 @@
 # Antimicrobial Resistance (AMR) Gene Analysis in ESKAPEE Pathogens
 
 ### Team Members
-- **Mandar Bedse** - Bioclues.org, India (Teach Lead)  
-- **Gautam Kr. Dhandh** - Bioclues.org, India (Writer)  
-- **VS Sundararajan, PhD** - Bioclues.org, India (Flex)  
-- **Girik Malik, PhD** - Bioclues.org, India (Flex)  
-- **R Shyam Prasad Rao, PhD** - NITTE University, Mangalore and Bioclues.org, India (Team Leader)  
+- **Mandar Bedse** - Bioclues.org, India (Teach Lead)
+- **Gautam Kr. Dhandh** - Bioclues.org, India (Writer)
+- **VS Sundararajan, PhD** - Bioclues.org, India (Flex)
+- **Girik Malik, PhD** - Bioclues.org, India (Flex)
+- **R Shyam Prasad Rao, PhD** - NITTE University, Mangalore and Bioclues.org, India (Team Leader)
 - **Prashanth N Suravajhala, PhD** - Amrita Vishwa Vidyapeetham, Kerala and Bioclues.org, India (Team Leader)
 
 ---
 
 ## Project Goals
-This project integrates data and tools for analyzing antimicrobial resistance (AMR) genes in ESKAPEE pathogens. The focus is to examine these genes in the context of mobile genetic elements (MGEs), such as plasmids, and their associated phenotypes derived from antimicrobial susceptibility tests (AST) and clinical data. 
+This project integrates data and tools for analyzing antimicrobial resistance (AMR) genes in ESKAPEE pathogens. The focus is to examine these genes in the context of mobile genetic elements (MGEs), such as plasmids, and their associated phenotypes derived from antimicrobial susceptibility tests (AST) and clinical data.
 
 Initially, the project will focus on **Acinetobacter** and plasmids. The broader goal is to provide a comprehensive pangenomic profile of AMR and AST in the context of MGEs/plasmids.
 
