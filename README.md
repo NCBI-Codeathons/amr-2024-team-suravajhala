@@ -5,8 +5,9 @@
 - **Gautam Kr. Dhandh** - Bioclues.org, India (Writer)
 - **VS Sundararajan, PhD** - Bioclues.org, India (Flex)
 - **Girik Malik, PhD** - Bioclues.org, India (Flex)
--- **Prashanth N Suravajhala, PhD** - Amrita Vishwa Vidyapeetham, Kerala and Bioclues.org, India (Team Co-Lead)
- **R Shyam Prasad Rao, PhD** - NITTE University, Mangalore and Bioclues.org, India (Team Co-Lead)
+- **Prashanth N Suravajhala, PhD** - Amrita Vishwa Vidyapeetham, Kerala and Bioclues.org, India (Team Co-Lead)
+- **R Shyam Prasad Rao, PhD** - NITTE University, Mangalore and Bioclues.org, India (Team Co-Lead)
+
 ---
 
 ## Project Goals
@@ -27,7 +28,7 @@ Initially, the project will focus on **Acinetobacter** and plasmids. The broader
 ## Approach
 This section will cover the methodology and tools used to analyze AMR genes in Acinetobacter and their relationship with plasmids/MGEs. We aim to use various data integration techniques to map AMR genes to their plasmids and correlate them with clinical AST data.
 
-*More details will be added soon.*
+![Approach](https://github.com/NCBI-Codeathons/amr-2024-team-suravajhala/blob/main/steps_dia.jpg)
 
 ---
 
@@ -54,4 +55,3 @@ For general questions about NCBI software and tools, please visit: [NCBI Contact
 
 ### License
 [Specify license here]
-
